@@ -1,6 +1,7 @@
 <?php include "includes/header.php";?>
 
     <div id="wrapper">
+
     <!-- Navigation -->
     <?php include "includes/admin_nav.php";?>
         <div id="page-wrapper">
@@ -15,7 +16,7 @@
 <!-- /. BREADCRUMB row 
 <ol class="breadcrumb">
 <li>
-<i class="fa fa-dashboard"></i>  <a href="index.html">Dashboard</a>
+<i class="fa fa-dashboard"></i>  <a hre f="index.html">Dashboard</a>
 </li>
 <li class="active">
 <i class="fa fa-file"></i> Blank Page
